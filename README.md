@@ -117,6 +117,7 @@ Table of contents:
 
 #### Angular 2 Approach and Explanation
 * thoughtram
+  * [Exploring Angular 2](http://blog.thoughtram.io/exploring-angular-2) - A curated collection of high quality articles to explore the Angular 2 framework
   * [Developing a tabs component in Angular 2](http://blog.thoughtram.io/angular/2015/04/09/developing-a-tabs-component-in-angular-2.html)
   * [Developing a zippy component in Angular 2](http://blog.thoughtram.io/angular/2015/03/27/building-a-zippy-component-in-angular-2.html)
   * [Resolving Service Dependencies in Angular 2](http://blog.thoughtram.io/angular/2015/09/17/resolve-service-dependencies-in-angular-2.html)
@@ -183,6 +184,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### Dart Angular 2 Online Playground
 
 #### Dart Seed Projects
+* [ng2-dart-samples](https://github.com/ng2-dart-samples)
 
 ### Angular 2 in Babel
 > The compiler for writing next generation JavaScript.
