@@ -45,6 +45,11 @@ Table of contents:
 * [ES5](#angular-2-in-es5)
   * [Angular 2 Online Playground](#es5-angular-2-online-playground)
   * [Seed Projects](#es5-seed-projects)
+* [Haxe](#angular-2-in-haxe)
+  * [Angular 2 Online Playground](#haxe-angular-2-online-playground)
+  * [Seed Projects](#haxe-seed-projects)
+* [Scala](#angular-2-in-scala)
+  * [Seed Projects](#scala-seed-projects)
 * [Platforms](#platforms)
   * [Ionic 2](#ionic-2)
     * [Ionic 2 General Resources](#ionic-2-general-resources)
@@ -80,6 +85,8 @@ Table of contents:
 
 #### Angular 2 Server-Side Rendering
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
+
+#### Angular 2 Material Design
 
 #### Angular 2 Cheatsheet
 * [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
@@ -219,6 +226,19 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
 #### ES5 Seed Projects
 
+### Angular 2 in Haxe
+> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language.
+
+#### Haxe Angular 2 Online Playground
+
+#### Haxe Seed Projects
+* [angular2haxe](https://github.com/nweedon/angular2haxe)
+
+### Angular 2 in Scala
+> General purpose language; multiparadigm (object-oriented, functional, concurrent elements); statically typed, type-safe; focus: Web services.
+
+#### Scala Seed Projects
+* [play-angular2](https://github.com/gdi2290/play-angular2)
 
 ### Platforms
 
