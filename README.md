@@ -45,9 +45,6 @@ Table of contents:
 * [ES5](#angular-2-in-es5)
   * [Angular 2 Online Playground](#es5-angular-2-online-playground)
   * [Seed Projects](#es5-seed-projects)
-* [Haxe](#angular-2-in-haxe)
-  * [Angular 2 Online Playground](#haxe-angular-2-online-playground)
-  * [Seed Projects](#haxe-seed-projects)
 * [Platforms](#platforms)
   * [Ionic 2](#ionic-2)
     * [Ionic 2 General Resources](#ionic-2-general-resources)
@@ -181,12 +178,20 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular2Go](https://github.com/johnpapa/angular2-go#awesome-angular2) Angular 2 Go !
  
 ### Angular 2 in Dart
-> Platform for scalable web app engineering that compiles to JavaScript.
+> Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
+
+#### Dart General Resources
+* [Dart](https://www.dartlang.org/) Official Website for Dart
+* [Dartpad](https://dartpad.dartlang.org/) Dartpad lets play with Dart on-line, in a zero-install, zero configuration environment.
+* [Dart Organization (GitHub)](https://github.com/dart-lang) Official Github Organization for Dart
+* [Pub](https://pub.dartlang.org/) Repository of packages of software for the Dart programming language.
+* [Dartisans](https://plus.google.com/communities/114566943291919232850) The Official Dart Google+ community
+* [Dart Slack Channel](https://dartlang-slack.herokuapp.com/) The Official Dart Slack channel.
 
 #### Dart Angular 2 Online Playground
 
 #### Dart Seed Projects
-* [ng2-dart-samples](https://github.com/ng2-dart-samples)
+* [ng2-dart-samples](https://github.com/ng2-dart-samples) Angular 2 for Dart demos and samples from the community
 
 ### Angular 2 in Babel
 > The compiler for writing next generation JavaScript.
@@ -207,15 +212,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### ES5 Angular 2 Online Playground
 
 #### ES5 Seed Projects
-
-### Angular 2 in Haxe
-> Haxe is an open source toolkit based on a modern, high level, strictly typed programming language.
-
-#### Haxe Angular 2 Online Playground
-
-#### Haxe Seed Projects
-* [angular2haxe](https://github.com/nweedon/angular2haxe)
-
 
 
 ### Platforms
