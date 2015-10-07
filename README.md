@@ -16,12 +16,13 @@ Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerpla
 
 Table of contents:
 * [Angular 2](#angular-2)
-  * [Angular 2 General Resources](#angular-2-general-resources)
-  * [Angular 2 Community](#angular-2-community)
-  * [Angular 2 Server-Side Rendering](#angular-2-server-side-rendering)
-  * [Angular 2 Material Design](#angular-2-material-design)
-  * [Angular 2 Cheatsheet](#angular-2-cheatsheet)
-  * [Angular 2 Features](#angular-2-features)
+  * [Official Resources](#official-resources)
+  * [Community](#community)
+  * [Experts on Twitter](#experts-on-twitter)
+  * [Server-Side Rendering](#server-side-rendering)
+  * [Material Design](#material-design)
+  * [Cheatsheet](#cheatsheet)
+  * [Features](#features)
     * [Annotations](#annotations)
     * [View](#view)
     * [Templates](#templates)
@@ -32,16 +33,16 @@ Table of contents:
     * [HTTP](#http)
     * [Router](#router)
     * [Test](#test)
-  * [Angular 2 Tutorials](#angular-2-tutorials)
-  * [Angular 2 Series](#angular-2-series)
-  * [Angular 2 Video Tutorials](#angular-2-video-tutorials)
-  * [Angular 2 Books](#angular-2-books)
-  * [Angular 2 On-Site Training](#angular-2-on-site-training)
-  * [Angular 2 Approach and Explanation](#angular-2-approach-and-explanation)
-  * [Angular 2 Integrations](#angular-2-integrations)
-  * [Angular 2 Components](#angular-2-components)
-  * [Angular 2 Generators](#angular-2-generators)
-  * [Angular 2 TodoMVC](#angular-2-todomvc)
+  * [Tutorials](#tutorials)
+  * [Series](#series)
+  * [Video Tutorials](#video-tutorials)
+  * [Books](#books)
+  * [On-Site Training](#on-site-training)
+  * [Approach and Explanation](#approach-and-explanation)
+  * [Integrations](#integrations)
+  * [Components](#components)
+  * [Generators](#generators)
+  * [TodoMVC](#todomvc)
 * [Universal](#universal-angular-2)
   * [Universal General Resources](#universal-general-resources)
   * [Seed Projects](#universal-seed-projects)
@@ -75,20 +76,19 @@ Table of contents:
   * [Seed Projects](#haxe-seed-projects)
 * [Scala](#angular-2-in-scala)
   * [Seed Projects](#scala-seed-projects)
-* [Angular 2 experts on Twitter](#angular-2-experts-on-twitter)
 
 
 ### Angular 2
 > Angular is a development platform for building mobile and desktop web applications.
 
-#### Angular 2 General Resources
-* [Official Site](https://angular.io/)
-* [Official Blog](http://angularjs.blogspot.com/)
-* [Official Documentation](https://angular.io/docs/js/latest/)
-* [Official Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
-* [Official GitHub Repo](https://github.com/angular/angular)
+#### Official Resources
+* [Site](https://angular.io/)
+* [Blog](http://angularjs.blogspot.com/)
+* [Documentation](https://angular.io/docs/js/latest/)
+* [Getting Started Guide](https://angular.io/docs/js/latest/quickstart.html)
+* [GitHub Repo](https://github.com/angular/angular)
 
-#### Angular 2 Community
+#### Community
 * `#angular2` channel on Freenode IRC Server
 * [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter
 * [Gitter Channel](https://gitter.im/angular/angular)
@@ -104,18 +104,31 @@ Table of contents:
 * [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies ([Sign up](http://www.angularbuddies.com/))
 * [`#angular2 Slack Channel`](https://dartlang.slack.com/messages/angular2) on dartlang.slack.com ([Sign up](https://dartlang-slack.herokuapp.com/))
 
-#### Angular 2 Server-Side Rendering
+#### Experts on Twitter
+> List of Angular experts you should follow on Twitter (in no particular order). This list by no means complete.
+* [@gdi2290](https://twitter.com/gdi2290)
+* [@jeffwhelpley](https://twitter.com/jeffwhelpley)
+* [@pkozlowski_os](https://twitter.com/pkozlowski_os)
+* [@kentcdodds](https://twitter.com/kentcdodds)
+* [@mhevery](https://twitter.com/mhevery)
+* [@victorsavkin](https://twitter.com/victorsavkin)
+* [@tbosch1009](https://twitter.com/tbosch1009)
+* [@teropa](https://twitter.com/teropa)
+* [@eggheadio](https://twitter.com/eggheadio)
+
+
+#### Server-Side Rendering
 * [Angular 2 Universal Repository (GitHub)](https://github.com/angular/universal)
 
-#### Angular 2 Material Design
+#### Material Design
 * [Official Angular 2 Material Design (GitHub)](https://github.com/angular/angular/tree/master/modules/angular2_material)
 
-#### Angular 2 Cheatsheet
+#### Cheatsheet
 * [TypeScript/Babel API Cheatsheet](https://docs.google.com/document/d/19jHbsXeYj2QiZ-cGS_mA3nyaU86gLeonjU2Tfzm1J5Y/mobilebasic)
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
 * [Angular2 Dart cheatsheet](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 
-#### Angular 2 Features
+#### Features
 
 ##### Annotations
 ###### Directives
@@ -161,9 +174,9 @@ Http is available as an injectable class, with methods to perform http requests.
 
 ##### Test
 
-#### Angular 2 Tutorials
+#### Tutorials
 
-#### Angular 2 Series
+#### Series
 * Ionic
   * Angular 2
     * [Introduction](http://blog.ionic.io/angular-2-series-introduction/)
@@ -176,21 +189,21 @@ Http is available as an injectable class, with methods to perform http requests.
   * Angular 2 Template Syntax Demystified
     * [Part 1](http://blog.thoughtram.io/angular/2015/08/11/angular-2-template-syntax-demystified-part-1.html)
 
-#### Angular 2 Video Tutorials
+#### Video Tutorials
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 
-#### Angular 2 Books
+#### Books
 * [ng-book 2](https://ng-book.com/2) `fullstack.io`
 * [Become a ninja with Angular 2](https://books.ninja-squad.com/angular2) `Ninja Squad`
 
-#### Angular 2 On-Site Training
+#### On-Site Training
 * [AngularClass](https://angularclass.com)
 * [thoughtram](http://thoughtram.io/training.html)
 * [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
 * [ng-book](https://www.ng-book.com/2/)
 
-#### Angular 2 Approach and Explanation
+#### Approach and Explanation
 
 * Victor Savkin
   * [Dependency Injection in Angular 1 and Angular 2](http://victorsavkin.com/post/126514197956/dependency-injection-in-angular-1-and-angular-2)
@@ -217,20 +230,20 @@ Http is available as an injectable class, with methods to perform http requests.
   * [Writing Angular 2 code in ES5](http://blog.thoughtram.io/angular/2015/05/09/writing-angular-2-code-in-es5.html)
   * [The difference between Annotations and Decorators](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
-#### Angular 2 Integrations
+#### Integrations
 * [FalcorJS + Angular2 (Video)](https://youtu.be/z8UgDZ4rXBU)
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
 * [nativescript-angular](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer](https://github.com/angular/react-native-renderer)
 
-### Angular 2 Components
+#### Components
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [ng2-bootstrap: Native Angular2 bootstrap components](https://github.com/valor-software/ng2-bootstrap)
 * [ng2-bs](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
 * [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
 * [ag-grid](http://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
 
-### Angular 2 Generators
+#### Generators
 * Node.js
   * Slush
     * [TheVelourFog/slush-angular2](https://github.com/TheVelourFog/slush-angular2)
@@ -240,7 +253,7 @@ Http is available as an injectable class, with methods to perform http requests.
   * Stagehand
     * [kasperpeulen/stagehand](https://github.com/kasperpeulen/stagehand)
 
-#### Angular 2 TodoMVC
+#### TodoMVC
 * [Official Angular 2.0](http://todomvc.com/examples/angular2/)
 * [Angular 2 Dart](https://github.com/ng2-dart-samples/todomvc)
 
@@ -253,7 +266,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Universal Angular 2 Repository (GitHub)](https://github.com/angular/universal)
 
 #### Universal Seed Projects
-* [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Fullstack Angular 2 starter kit by @Angular-Class
+* [fullstack-angular2-starter](https://github.com/angular-class/fullstack-angular2-starter) - Full-Stack Angular 2 starter kit by @Angular-Class
 
 ---
 
@@ -425,18 +438,6 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [play-angular2](https://github.com/gdi2290/play-angular2)
 * [**{{** add_your_repo **}}**](https://github.com/angular-class/awesome-angular2/edit/gh-pages/README.md)
 
-#### Angular 2 experts on Twitter
-> List of Angular experts you should follow on Twitter (in no particular order). This list by no means complete.
-* [@gdi2290](https://twitter.com/gdi2290)
-* [@jeffwhelpley](https://twitter.com/jeffwhelpley)
-* [@pkozlowski_os](https://twitter.com/pkozlowski_os)
-* [@kentcdodds](https://twitter.com/kentcdodds)
-* [@mhevery](https://twitter.com/mhevery)
-* [@victorsavkin](https://twitter.com/victorsavkin)
-* [@tbosch1009](https://twitter.com/tbosch1009)
-* [@teropa](https://twitter.com/teropa)
-* [@eggheadio](https://twitter.com/eggheadio)
- 
 
 ---
 
