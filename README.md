@@ -243,7 +243,6 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### On-Site Training
 * [AngularClass](https://angularclass.com)
-* [Angular Boot Camp](http://angularbootcamp.com)
 * [thoughtram](http://thoughtram.io/training.html)
 * [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
 * [ng-book](https://www.ng-book.com/2/)
@@ -289,6 +288,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-handsontable](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
 * [ng2-bs](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
 * [ag-grid](http://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
+* [angular2-jwt](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
 
 #### Generators
 * Node.js
