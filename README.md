@@ -227,6 +227,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Video Tutorials
 * [Egghead.io - Angular 2](https://egghead.io/technologies/angular2)
+* [Egghead.io - Build Redux Style Applications with Angular2, RxJS, and ngrx/store](https://egghead.io/series/building-a-time-machine-with-angular-2-and-rxjs)
 * [udemy - Introduction to Angular 2](https://www.udemy.com/introduction-to-angular2/)
 * [udemy - Angular 2 with TypeScript for Beginners: The Pragmatic Guide](https://www.udemy.com/angular-2-tutorial-for-beginners/)
 * [udemy - The Complete Guide to Angular 2](https://www.udemy.com/the-complete-guide-to-angular-2/)
@@ -321,6 +322,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-modal](https://github.com/pleerock/ng2-modal) Modal window for angular2 and bootstrap 3
 * [ng2-paginator](https://github.com/pleerock/ng2-paginator) Pagination control for angular2 and bootstrap 3
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) Bootstrap 4 components and directives for use in Angular 2
+* [prime-ng](http://www.primefaces.org/primeng/)  Collection of rich UI components for Angular 2
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
