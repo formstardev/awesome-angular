@@ -236,8 +236,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Style Guides
 
-* [Community-driven style guide for Angular 2 application development](https://github.com/mgechev/angular2-style-guide)
-* [John Papa - Angular 2 style guide](https://github.com/johnpapa/angular-styleguide/tree/master/a2)
+* [Official Angular 2 Style guide](https://angular.io/styleguide)
 
 #### Angular Connect
 * [Keynote – Brad Green, Igor Minar and Jules Kremer](https://www.youtube.com/watch?v=UxjgUjVpe24)
@@ -266,7 +265,6 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
 * [ng-book](https://www.ng-book.com/2/)
 * [Angular 2 Workshop](http://chariotsolutions.com/course/angular2-workshop-fundamentals-architecture/)
-* [Web Age Solutions](http://www.webagesolutions.com/courses/WA2533-angular-2-programming)
 
 #### Approach and Explanation
 
