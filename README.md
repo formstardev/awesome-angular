@@ -272,6 +272,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Egghead.io](https://egghead.io/angularjs-enterprise-training-workshop)
 * [ng-book](https://www.ng-book.com/2/)
 * [Angular 2 Workshop](http://chariotsolutions.com/course/angular2-workshop-fundamentals-architecture/)
+* [Web Age Solutions](http://www.webagesolutions.com/courses/WA2533-angular-2-programming)
 
 #### Approach and Explanation
 
@@ -339,6 +340,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular2-text-mask](https://github.com/msafi/text-mask) Angular 2 text masking directive for input elements
 * [ng2-fullpage](https://github.com/meiblorn/ng2-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
 * [file-droppa](https://github.com/ptkach/fileDroppa) Simple files drop and upload component with files list
+* [ng2-img-fallback](https://github.com/VadimDez/ng2-img-fallback) Load placeholder image on image error
 
 #### Pipes
 * [fuel-ui](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
