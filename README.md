@@ -8,6 +8,8 @@
 
 Awesome list of [Angular 2 and Angular 4](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://angularclass.github.io/awesome-angular/)
 
+> If you're looking for AngularJS (version 1.x.x) please visit https://github.com/gianarb/awesome-angularjs
+
 ##### Current Angular version:
 [![npm version](https://badge.fury.io/js/%40angular%2Fcore.svg)](https://www.npmjs.com/~angular)
 
@@ -315,6 +317,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Switching to Angular 2](https://www.packtpub.com/web-development/switching-angular-2) `Packt Publishing`
 * [Rangle's Angular 2 training](https://www.gitbook.com/book/rangle-io/ngcourse2/details) `Rangle.io`
 * [揭秘Angular 2](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01NBOQCJW) `GF Securities`
+* [Learn Angular 2](http://learnangular2.com/) `Ionic Team`
 
 #### On-Site Training
 * [AngularClass](https://angularclass.com)
